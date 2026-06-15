@@ -1,0 +1,12 @@
+{
+  "name": "import",
+  "version": "1.0.0",
+  "description": "In this project i am going to pass some variables through the \r     keyword Export  from one file and taking that keyword in another file with the help of Import",
+  "license": "ISC",
+  "author": "Ganesh Machale",
+  "main": "math.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
